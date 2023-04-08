@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Tankanashi Rikka from NanChang University.
 ### I am a NCUHOMER working for NCUHOME Studio as a Backend R&D Engineer
 - 🔭 I’m currently working on using golang to build web server
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakanashiRikka-Na&count_private=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakanashiRikka-Na&count_private=true)
 ## Always Use
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
