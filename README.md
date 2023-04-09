@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on using golang to build web server
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakanashiRikka-Na&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakanashiRikka-Na)
 ## Always Use
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
