@@ -7,7 +7,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ### Learning and using
 <div><p align="">
-  <img src="https://skillicons.dev/icons?i=go,cpp,java,git,docker,mysql,redis,python,js,react,flutter,spring-boot,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,java,git,docker,mysql,redis,python,js,react,flutter,spring,java&theme=dark" />
 </p></div>  
 <!--
 **TakanashiRikka-Na/TakanashiRikka-Na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
